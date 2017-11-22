@@ -1,6 +1,5 @@
 <input type="button" value="Back" onclick="window.history.back()" /> 
 
-
 ## Can't find the answer to your question?
 Email us at clientcomm@cofeforamerica.org.
 
