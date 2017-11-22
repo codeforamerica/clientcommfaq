@@ -30,7 +30,7 @@ Your clients value the individual relationships you build with them. Strike a ba
 ## How do I schedule messages to be sent at a later date?
 Learn how to write a text now, and send it later.
 
-![Scheduling a message](https://raw.githubusercontent.com/codeforamerica/clientcommfaq/master/assets/images/scheduledmessage.gif)
+![Scheduling a message.](https://raw.githubusercontent.com/codeforamerica/clientcommfaq/master/assets/images/scheduledmessage.gif)
 
 Click on the name of the client you want to send a message to. Click the "send later button" next to the send button. Write your message, then select the time and date you want it sent on. Then hit the "scheduled message" button. You can edit or delete the message at any point before it sends.
 
@@ -45,12 +45,17 @@ What happens if you don't don't have a desk phone number specified on your setti
 
 Change your password, email address, desk phone number, and more.
 
+![Changing your account settings.](https://raw.githubusercontent.com/codeforamerica/clientcommfaq/master/assets/images/accountsettings.gif)
+
+
 To update your account settings, click on the "account" link in the top menu, then click "account settings". You can change your name, email address, desk phone number, or password here.
 
 
 ## How do I add and delete clients?
 
 ### Add a client
+
+![Adding a new client.](https://raw.githubusercontent.com/codeforamerica/clientcommfaq/master/assets/images/addclient.gif)
 
 To add a new client to your contact list, click the "new client" button on the home page. Enter their name and phone number, and assign them a status. You can also add a note about the client. You can use this for anything you like: their ID number, upcoming court dates, or any personal information that will help you connect with them. 
 
