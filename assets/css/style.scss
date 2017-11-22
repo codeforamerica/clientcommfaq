@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+.project-tagline {display:none;}
+.main-content h2 {color:#019C86; font-weight: bold; margin-top: 4rem;}
+.main-content h3 {color:#666; font-weight: bold;}
+.main-content hr {
+    height: 1px;
+    margin: 2rem 0;
+    background-color: #333333;
+    }
+img {border:1px solid #606c71;}
+.page-header {background-color: #019C86; background-image: linear-gradient(120deg, #155799, #019C86);}
+a {text-decoration: underline;}
