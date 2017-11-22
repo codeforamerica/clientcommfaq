@@ -7,7 +7,7 @@ Email us at clientcomm@cofeforamerica.org.
 
 ## How does ClientComm work?
 
-ClientComm allows you to send text messages to your clients, right from your computer. It runs in your web browser, so you can use it from any computer or smart phone. Clients receive your messages on their phones, like any normal text. Clients respond on their phones, you recieve their messages in ClientComm.
+ClientComm allows you to send and receive text messages with your clients, right from your computer. It runs in your web browser, so you can use it from any computer or smartphone. Clients receive your messages on their phones, like any normal text. Clients respond on their phones, you receive their messages in ClientComm.
 
 
 ## How do I send a message to multiple clients at once?
@@ -38,11 +38,11 @@ ClientComm can transfer calls to your desk phone.
 
 The ClientComm phone number can only be used to send and receive text messages. The good news is, ClientComm can automatically redirect incoming calls to your desk phone number. You'll need to add your desk number (or any phone number you can receive calls at) to your account settings page. This will make it easier and less confusing for clients to get in touch with you.
 
-What happens iff you don't don't have a desk phone number specified on your settings page? Callers will hear a recording advising them that the number can only receive text messages and that they should hang up and send a text.
+What happens if you don't don't have a desk phone number specified on your settings page? Callers will hear a recording advising them that the number can only receive text messages and that they should hang up and send a text.
 
 ## How do I update my account settings?
 
-Change your password, email address, and more.
+Change your password, email address, desk phone number, and more.
 
 To update your account settings, click on the "account" link in the top menu, then click "account settings". You can change your name, email address, desk phone number, or password here.
 
