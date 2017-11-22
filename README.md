@@ -9,9 +9,8 @@
 
 ## How does ClientComm work?
 
-ClientComm allows you to send text messages to your clients, right from your computer. It runs in your web browser, so you can use it from any computer or smart phone. Clients receive your messages on their phones, like any normal text. 
+ClientComm allows you to send text messages to your clients, right from your computer. It runs in your web browser, so you can use it from any computer or smart phone. Clients receive your messages on their phones, like any normal text. Clients respond on their phones, you recieve their messages in ClientComm.
 
-Everyone using ClientComm has the same phone number. How does that work? Behind the scenes, ClientComm routes messages from clients to the correct case manager. This routing is based on which clients are on which contact lists.
 
 ## How do I send a message to multiple clients at once?
 Learn how to send a mass message.
