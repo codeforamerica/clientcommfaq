@@ -1,6 +1,5 @@
 <input type="button" value="Back" onclick="window.history.back()" /> 
 
----
 
 ## Can't find the answer to your question?
 Email us at clientcomm@cofeforamerica.org.
@@ -14,8 +13,6 @@ ClientComm allows you to send text messages to your clients, right from your com
 
 ## How do I send a message to multiple clients at once?
 Learn how to send a mass message.
-
-![Sending a mass message](https://raw.githubusercontent.com/codeforamerica/clientcommhelp/master/MassMessage.gif)
 
 On the homepage, click the "mass message" button. Write your message, then select your recipients. You can check off just a few clients, or use the "select all" checkbox to choose all of them. There is no limit to the number of clients you can message at once. Then hit send!
 
@@ -34,7 +31,6 @@ Your clients value the individual relationships you build with them. Strike a ba
 ## How do I schedule messages to be sent at a later date?
 Learn how to write a text now, and send it later.
 
-![Scheduling messages](https://raw.githubusercontent.com/codeforamerica/clientcommhelp/master/ScheduledMessage.gif)
 
 Click on the name of the client you want to send a message to. Click the "send later button" next to the send button. Write your message, then select the time and date you want it sent on. Then hit the "scheduled message" button. You can edit or delete the message at any point before it sends.
 
@@ -51,13 +47,10 @@ Change your password, email address, and more.
 
 To update your account settings, click on the "account" link in the top menu, then click "account settings". You can change your name, email address, desk phone number, or password here.
 
-![Updating settings](https://raw.githubusercontent.com/codeforamerica/clientcommhelp/master/UpdateSettings.gif)
 
 ## How do I add and delete clients?
 
 ### Add a client
-
-![Adding a new client](https://raw.githubusercontent.com/codeforamerica/clientcommhelp/master/AddClient.gif)
 
 To add a new client to your contact list, click the "new client" button on the home page. Enter their name and phone number, and assign them a status. You can also add a note about the client. You can use this for anything you like: their ID number, upcoming court dates, or any personal information that will help you connect with them. 
 
