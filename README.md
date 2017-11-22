@@ -1,5 +1,11 @@
 ## [↩  Back to ClientComm](https://sdwp.clientcomm.org/)
 
+<button onclick="goBack()">Back to ClientComm</button>
+<script>
+function goBack() {
+    window.history.back();
+}
+</script>
 ---
 
 ## Can't find the answer to your question?
