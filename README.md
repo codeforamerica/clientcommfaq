@@ -2,10 +2,8 @@
 
 ---
 
-### Can't find the answer to your question?
-- need to transfer a client or have a client transferred to you
-- can't remember your login
-- have a coworker who needs an account
+## Can't find the answer to your question?
+- Explain how to contact us here
 
 ---
 
