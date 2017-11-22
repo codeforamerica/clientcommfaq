@@ -30,6 +30,7 @@ Your clients value the individual relationships you build with them. Strike a ba
 ## How do I schedule messages to be sent at a later date?
 Learn how to write a text now, and send it later.
 
+![Scheduling a message](https://raw.githubusercontent.com/codeforamerica/clientcommfaq/master/assets/images/scheduledmessage.gif)
 
 Click on the name of the client you want to send a message to. Click the "send later button" next to the send button. Write your message, then select the time and date you want it sent on. Then hit the "scheduled message" button. You can edit or delete the message at any point before it sends.
 
