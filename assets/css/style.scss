@@ -19,6 +19,19 @@ button, html input[type="button"]
     background-color: #A6005E;
     border-color: #A6005E;
     border-bottom-color: #8d0050;
+        -webkit-transition: 0.1s ease-out background-color;
+    transition: 0.1s ease-out background-color;
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    font-weight: 500;
+    border: 1px solid #DFD7CC;
+    border-bottom: 2px solid #beb7ad;
+    padding: .5em 1em;
+    border-radius: 2px;
+    margin-bottom: .5em;
+    margin-right: .3em;
+    text-decoration: none;
 }
 button, html input[type="button"]:hover
 {
