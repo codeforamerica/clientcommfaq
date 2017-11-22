@@ -1,19 +1,9 @@
-<button onclick="goBack()"> Back to ClientComm </button>
-
-<script>
-function goBack() {
-    window.history.back();
-}
-</script>
-
-
-
 <input type="button" value="Back" onclick="window.history.back()" /> 
 
 ---
 
 ## Can't find the answer to your question?
-- Explain how to contact us here
+Email us at clientcomm@cofeforamerica.org.
 
 ---
 
@@ -78,4 +68,4 @@ If a client sends you a text message after you've deleted them, they will be res
 
 ---
 
-## [↩  Back to ClientComm](https://sdwp.clientcomm.org/)
+<input type="button" value="Back" onclick="window.history.back()" /> 
