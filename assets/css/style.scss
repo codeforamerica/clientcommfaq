@@ -13,3 +13,19 @@
 img {border:1px solid #606c71;}
 .page-header {background-color: #019C86; background-image: linear-gradient(120deg, #155799, #019C86);}
 a {text-decoration: underline;}
+button, html input[type="button"] 
+{
+    color: #FFFFFF;
+    background-color: #A6005E;
+    border-color: #A6005E;
+    border-bottom-color: #8d0050;
+}
+button, html input[type="button"]:hover
+{
+    background-color: #b8337e;
+    color: #FFFFFF;
+}
+button, html input[type="button"]:active
+{
+    background-color: #8d0050;
+}
