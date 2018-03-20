@@ -94,17 +94,30 @@ You can use ClientComm on any smartphone. For quick access, follow the instructi
 
 ### If you have an Android phone
 1. Open your web browser (Google Chrome) on your phone. Navigate to the ClientComm website and log-in.
+
 2. Click the three dots at the top right of the screen. 
+
 3. Scroll down until you see “Add to homescreen.” Click it.
+
 4. Click “Add”.
+
 5. You should now see ClientComm on your home screen! You may need to swipe to find it. If you click it it will open ClientComm, and you can read and send messages from there.
 
 ### If you have an iPhone phone
 1. Open your web browser (Safari) on your phone. Navigate to the ClientComm website and log-in.
+
 2. Click the share icon at the bottom of the screen. 
+![](https://raw.githubusercontent.com/codeforamerica/clientcommfaq/master/assets/images/iphone 1.png)
+
 3. Scroll until you see “Add to Home Screen.” Click it.
+![](https://raw.githubusercontent.com/codeforamerica/clientcommfaq/master/assets/images/iphone 2.png)
+
 4. Click “Add”.
+![](https://raw.githubusercontent.com/codeforamerica/clientcommfaq/master/assets/images/iphone 3.png)
+
 5. You should now see ClientComm on your home screen! You may need to swipe to find it. If you click it it will open ClientComm, and you can read and send messages from there.
+![](https://raw.githubusercontent.com/codeforamerica/clientcommfaq/master/assets/images/iphone 4.png)
+
 ---
 
 <input type="button" value="Back" onclick="window.history.back()" /> 
