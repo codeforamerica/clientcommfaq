@@ -89,8 +89,22 @@ The ClientComm phone number can only be used to send and receive text messages. 
 What happens if you don't don't have a desk phone number specified on your settings page? Callers will hear a recording advising them that the number can only receive text messages and that they should hang up and send a text.
 
 
+## How do I add ClientComm to my phone home screen?
+You can use ClientComm on any smartphone. For quick access, follow the instructions below to add it to your home screen.
 
+### If you have an Android phone
+1. Open your web browser (Google Chrome) on your phone. Navigate to the ClientComm website and log-in.
+2. Click the three dots at the top right of the screen. 
+3. Scroll down until you see “Add to homescreen.” Click it.
+4. Click “Add”.
+5. You should now see ClientComm on your home screen! You may need to swipe to find it. If you click it it will open ClientComm, and you can read and send messages from there.
 
+### If you have an iPhone phone
+1. Open your web browser (Safari) on your phone. Navigate to the ClientComm website and log-in.
+2. Click the share icon at the bottom of the screen. 
+3. Scroll until you see “Add to Home Screen.” Click it.
+4. Click “Add”.
+5. You should now see ClientComm on your home screen! You may need to swipe to find it. If you click it it will open ClientComm, and you can read and send messages from there.
 ---
 
 <input type="button" value="Back" onclick="window.history.back()" /> 
