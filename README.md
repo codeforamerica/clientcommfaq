@@ -93,32 +93,32 @@ What happens if you don't don't have a desk phone number specified on your setti
 You can use ClientComm on any smartphone. For quick access, follow the instructions below to add it to your home screen.
 
 ### If you have an Android phone
-1. Open your web browser (Google Chrome) on your phone. Navigate to the ClientComm website and log-in.
+* Open your web browser (Google Chrome) on your phone. Navigate to the ClientComm website and log-in.
 
-2. Click the three dots at the top right of the screen. 
+* Click the three dots at the top right of the screen. 
 
-3. Scroll down until you see “Add to homescreen.” Click it.
+* Scroll down until you see “Add to homescreen.” Click it.
 
-4. Click “Add”.
+* Click “Add”.
 
-5. You should now see ClientComm on your home screen! You may need to swipe to find it. If you click it it will open ClientComm, and you can read and send messages from there.
+* You should now see ClientComm on your home screen! You may need to swipe to find it. If you click it it will open ClientComm, and you can read and send messages from there.
 
 ### If you have an iPhone phone
-1. Open your web browser (Safari) on your phone. Navigate to the ClientComm website and log-in.
+* Open your web browser (Safari) on your phone. Navigate to the ClientComm website and log-in.
 
-2. Click the share icon at the bottom of the screen. 
+* Click the share icon at the bottom of the screen. 
 
 ![](https://raw.githubusercontent.com/codeforamerica/clientcommfaq/master/assets/images/iphone1.png)
 
-3. Scroll until you see “Add to Home Screen.” Click it.
+* Scroll until you see “Add to Home Screen.” Click it.
 
 ![](https://raw.githubusercontent.com/codeforamerica/clientcommfaq/master/assets/images/iphone2.png)
 
-4. Click “Add”.
+* Click “Add”.
 
 ![](https://raw.githubusercontent.com/codeforamerica/clientcommfaq/master/assets/images/iphone3.png)
 
-5. You should now see ClientComm on your home screen! You may need to swipe to find it. If you click it it will open ClientComm, and you can read and send messages from there.
+* You should now see ClientComm on your home screen! You may need to swipe to find it. If you click it it will open ClientComm, and you can read and send messages from there.
 
 ![](https://raw.githubusercontent.com/codeforamerica/clientcommfaq/master/assets/images/iphone4.png)
 
