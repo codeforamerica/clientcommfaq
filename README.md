@@ -97,6 +97,8 @@ You can use ClientComm on any smartphone. For quick access, follow the instructi
 
 * Click the three dots at the top right of the screen. 
 
+![](https://raw.githubusercontent.com/clientcommfaq/master/assets/images/android1.jpg)
+
 * Scroll down until you see “Add to homescreen.” Click it.
 
 * Click “Add”.
