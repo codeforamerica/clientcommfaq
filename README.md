@@ -68,6 +68,14 @@ The messages will go into the clients’ individual conversation pages, so you c
 Your clients value the individual relationships you build with them. Strike a balance between personalized messages and mass messages. Only send mass messages when they’re relevant to all of the recipients.
 
 
+## How do I transfer a client to another officer?
+To transfer a client to another case manager, simply go to the "Manage" page for that client. Scroll below the client's details until you see the "Transfer Client" section. Select which case manager you'd like to transfer the client to and, if you want, add a note. Click "transfer". The new case manager will now see the client when they log into ClientComm.
+
+![Transferring a client](https://raw.githubusercontent.com/codeforamerica/clientcommfaq/master/assets/images/transferclient.gif)
+
+
+When you transfer a client, your messages won't transfer to the new case manager. If you'd like to share your conversation with them, download a transcript of the conversation before you transfer the client and share that directly.
+
 
 
 
@@ -89,15 +97,30 @@ The ClientComm phone number can only be used to send and receive text messages. 
 What happens if you don't don't have a desk phone number specified on your settings page? Callers will hear a recording advising them that the number can only receive text messages and that they should hang up and send a text.
 
 
+## How do I add ClientComm to my desktop?
+Adding ClientComm to your desktop is an easy way to access it anytime. 
+
+![Saving ClientComm to desktop](https://raw.githubusercontent.com/codeforamerica/clientcommfaq/master/assets/images/savetodesktop.gif)
+
+
+* Open Google Chrome and navigate to ClientComm. Sign in so you see the home screen (your client list).
+
+* Click on the 3 dots in the top right corner of the Google Chrome window. Scroll until you see “More tools”.
+
+* Click “Add to desktop”. ClientComm will now be on your desktop. If you'd like, you can right-click the ClientComm icon on your desktop and select "Pin to Taskbar" for even easier access.
+
+
+
 ## How do I add ClientComm to my phone home screen?
 You can use ClientComm on any smartphone. For quick access, follow the instructions below to add it to your home screen.
 
 ### If you have an Android phone
+
+![Saving ClientComm to Android](https://raw.githubusercontent.com/codeforamerica/clientcommfaq/master/assets/images/android.gif)
+
 * Open your web browser (Google Chrome) on your phone. Navigate to the ClientComm website and log-in.
 
 * Click the three dots at the top right of the screen. 
-
-![](https://raw.githubusercontent.com/clientcommfaq/assets/images/android1.jpg)
 
 * Scroll down until you see “Add to homescreen.” Click it.
 
@@ -105,24 +128,19 @@ You can use ClientComm on any smartphone. For quick access, follow the instructi
 
 * You should now see ClientComm on your home screen! You may need to swipe to find it. If you click it it will open ClientComm, and you can read and send messages from there.
 
-### If you have an iPhone phone
+### If you have an iPhone
+
+![Saving ClientComm to iPhone](https://raw.githubusercontent.com/codeforamerica/clientcommfaq/master/assets/images/iphone.gif)
+
 * Open your web browser (Safari) on your phone. Navigate to the ClientComm website and log-in.
 
 * Click the share icon at the bottom of the screen. 
 
-![](https://raw.githubusercontent.com/codeforamerica/clientcommfaq/master/assets/images/iphone1.png)
-
 * Scroll until you see “Add to Home Screen.” Click it.
-
-![](https://raw.githubusercontent.com/codeforamerica/clientcommfaq/master/assets/images/iphone2.png)
 
 * Click “Add”.
 
-![](https://raw.githubusercontent.com/codeforamerica/clientcommfaq/master/assets/images/iphone3.png)
-
 * You should now see ClientComm on your home screen! You may need to swipe to find it. If you click it it will open ClientComm, and you can read and send messages from there.
-
-![](https://raw.githubusercontent.com/codeforamerica/clientcommfaq/master/assets/images/iphone4.png)
 
 ---
 
