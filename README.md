@@ -89,12 +89,6 @@ Change your password, email address, desk phone number, and more.
 To update your account settings, click on the "account" link in the top menu, then click "account settings". You can change your name, email address, desk phone number, or password here.
 
 
-## What happens if a client calls the ClientComm phone number?
-ClientComm can transfer calls to your desk phone.
-
-The ClientComm phone number can only be used to send and receive text messages. The good news is, ClientComm can automatically redirect incoming calls to your desk phone number. You'll need to add your desk number (or any phone number you can receive calls at) to your account settings page. This will make it easier and less confusing for clients to get in touch with you.
-
-What happens if you don't don't have a desk phone number specified on your settings page? Callers will hear a recording advising them that the number can only receive text messages and that they should hang up and send a text.
 
 
 ## How do I add ClientComm to my desktop?
@@ -141,6 +135,36 @@ You can use ClientComm on any smartphone. For quick access, follow the instructi
 * Click “Add”.
 
 * You should now see ClientComm on your home screen! You may need to swipe to find it. If you click it it will open ClientComm, and you can read and send messages from there.
+
+
+## What happens if a client calls the ClientComm phone number?
+ClientComm can transfer calls to your desk phone.
+
+The ClientComm phone number can only be used to send and receive text messages. The good news is, ClientComm can automatically redirect incoming calls to your desk phone number. You’ll need to add your desk number (or any phone number you can receive calls at) to your account settings page. This will make it easier and less confusing for clients to get in touch with you.
+
+What happens if you don’t don’t have a desk phone number specified on your settings page? Callers will be automatically redirected to the department's main office front desk. 
+
+## What happens If a client changes their phone number?
+
+If a client changes their phone number, and tells you in-person, you can update the phone number in the Edit Settings section. 
+
+If a client texts or calls the ClientComm number, and their case manager has not updated their phone number in ClientComm, ClientComm will not yet recognize they are your client.
+
+The ClientComm team will try to gather more information to match them to their case manager. During the matching process, they will be an "unclaimed client" in our system.
+
+## What happens when a client texts me from their new phone number?
+
+Sometimes, clients will text the ClientComm phone number from their new phone, to tell you they have a new number. 
+
+In that case, they will be sent to our "unclaimed clients" inbox, and the ClientComm team will determine their case manager, then move them to the correct case manager's "My Clients" list.  
+
+## What happens if a client calls me from their new phone number?
+
+Sometimes, a client will call the ClientComm phone number from a new number, to tell you they have a new number.
+
+ClientComm will not be able to match the client to the case manager and re-direct the call to the case manager's desk line as usual. Instead, ClientComm will re-direct the call to the department's main office front desk, to be connected to the case manager. 
+
+Once the case manager updates the phone number in ClientComm, calls from the client's new phone number will re-direct to the case manager's desk line.
 
 ---
 
