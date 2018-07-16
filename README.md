@@ -15,6 +15,11 @@ In this help section, we'll demonstrate:
 - How to schedule a message for later
 - How to send a mass message
 - How to update your account settings and route phone calls to you
+- What happens if a client calls the ClientComm phone number?
+- What happens If a client changes their phone number?
+- What happens when a client texts me from their new phone number?
+- What happens if a client calls me from their new phone number?
+- How can I save ClientComm on my desktop/phone home screen?
 
 ---
 
