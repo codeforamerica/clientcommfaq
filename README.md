@@ -89,12 +89,6 @@ Change your password, email address, desk phone number, and more.
 To update your account settings, click on the "account" link in the top menu, then click "account settings". You can change your name, email address, desk phone number, or password here.
 
 
-## What happens if a client calls the ClientComm phone number?
-ClientComm can transfer calls to your desk phone.
-
-The ClientComm phone number can only be used to send and receive text messages. The good news is, ClientComm can automatically redirect incoming calls to your desk phone number. You'll need to add your desk number (or any phone number you can receive calls at) to your account settings page. This will make it easier and less confusing for clients to get in touch with you.
-
-What happens if you don't don't have a desk phone number specified on your settings page? Callers will hear a recording advising them that the number can only receive text messages and that they should hang up and send a text.
 
 
 ## How do I add ClientComm to my desktop?
