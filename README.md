@@ -150,6 +150,8 @@ If you use the Chrome or Edge browser to see ClientComm, you can also enable des
 ### Turning desktop notifications on or off in Chrome
 **To enable notifications**: On your computer, open Chrome and navigate to ClientComm. You should see a popup at the top right asking you to enable notifications. If you'd like to enable these notifications, click "Allow".
 
+![Allow notifications on Chrome](https://raw.githubusercontent.com/codeforamerica/clientcommfaq/master/assets/images/chromenotifications.jpg)
+
 **To turn notifications off**:
 1. On your computer, open Chrome.
 2. At the top right, click More and then Settings.
@@ -163,6 +165,8 @@ If you use the Chrome or Edge browser to see ClientComm, you can also enable des
 
 ### Turning desktop notifications on or off in Edge
 **To enable notifications**: On your computer, open Edge and navigate to ClientComm. You should see a popup at the bottom asking you to enable notifications. If you'd like to enable these notifications, click "Allow".
+
+![Allow notifications on Edge](https://raw.githubusercontent.com/codeforamerica/clientcommfaq/master/assets/images/edgenotifications.jpg)
 
 **To turn notifications off**:
 1. On your computer, open Edge.
