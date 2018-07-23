@@ -142,6 +142,39 @@ You can use ClientComm on any smartphone. For quick access, follow the instructi
 * You should now see ClientComm on your home screen! You may need to swipe to find it. If you click it it will open ClientComm, and you can read and send messages from there.
 
 
+## How do I get notifications about new messages on ClientComm?
+Every time you get a new message on ClientComm, you'll get an email with that message. Click the "Respond on ClientComm" button to reply to this message.
+
+If you use the Chrome or Edge browser to see ClientComm, you can also enable desktop notifications that will pop up when you have a new message from a client. Listed below are instructions to turn these notifications on or off in each browser.
+
+### Turning desktop notifications on or off in Chrome
+**To enable notifications**: On your computer, open Chrome and navigate to ClientComm. You should see a popup at the top right asking you to enable notifications. If you'd like to enable these notifications, click "Allow".
+
+**To turn notifications off**:
+1. On your computer, open Chrome.
+2. At the top right, click More and then Settings.
+3. At the bottom, click Advanced.
+4. Under "Privacy and security," click Content settings.
+5. Click Notifications. 
+6. Choose to block or allow notifications:
+7. Block all: Turn off Ask before sending.
+8. Block a site: Next to "Block," click Add. Enter the site and click Add.
+9. Allow a site: Next to "Allow," click Add. Enter the site and click Add. 
+
+### Turning desktop notifications on or off in Edge
+**To enable notifications**: On your computer, open Edge and navigate to ClientComm. You should see a popup at the bottom asking you to enable notifications. If you'd like to enable these notifications, click "Allow".
+
+**To turn notifications off**:
+1. On your computer, open Edge.
+2. Click the More button in the top-right corner of the window. (It looks like three dots.)
+3. Click Settings.
+4. Click View advanced settings. You might have to scroll down a bit to find it.
+5. Click Manage, located beneath Notifications. You might have to scroll down a bit to find it.
+6. Click the switch below the website name so that it turns off.
+
+
+
+
 ## What happens if a client calls the ClientComm phone number?
 ClientComm can transfer calls to your desk phone.
 
