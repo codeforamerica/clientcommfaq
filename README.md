@@ -10,16 +10,18 @@ Email us at clientcomm@codeforamerica.org.
 ClientComm allows you to send and receive text messages with your clients, right from your computer. It runs in your web browser, so you can use it from any computer or smartphone. Clients receive your messages on their phones, like any normal text. Clients respond on their phones, you receive their messages in ClientComm.
 
 In this help section, we'll demonstrate:
-- How to add and delete a client
-- How to send and receive a single message
-- How to schedule a message for later
-- How to send a mass message
-- How to update your account settings and route phone calls to you
-- What happens if a client calls the ClientComm phone number?
-- What happens If a client changes their phone number?
-- What happens when a client texts me from their new phone number?
-- What happens if a client calls me from their new phone number?
-- How can I save ClientComm on my desktop/phone home screen?
+- [How to add and delete a client](https://codeforamerica.github.io/clientcommfaq/#how-do-i-add-and-delete-clients)
+- [How to send and receive a single message](https://codeforamerica.github.io/clientcommfaq/how-do-i-send-and-receive-a-single-message)
+- [How to schedule a message for later](https://codeforamerica.github.io/clientcommfaq/how-do-i-schedule-messages-to-be-sent-at-a-later-date)
+- [How to send a mass message](https://codeforamerica.github.io/clientcommfaq/how-do-i-send-a-message-to-multiple-clients-at-once)
+- [How to transfer a client to another officer](https://codeforamerica.github.io/clientcommfaq/how-do-i-transfer-a-client-to-another-officer)
+- [How to update your account settings and route phone calls to you](https://codeforamerica.github.io/clientcommfaq/how-do-i-update-my-account-settings)
+- [What happens if a client calls the ClientComm phone number?](https://codeforamerica.github.io/clientcommfaq/what-happens-if-a-client-calls-the-clientcomm-phone-number)
+- [What happens If a client changes their phone number?](https://codeforamerica.github.io/clientcommfaq/what-happens-if-a-client-changes-their-phone-number)
+- [What happens when a client texts me from their new phone number?](https://codeforamerica.github.io/clientcommfaq/what-happens-when-a-client-texts-me-from-their-new-phone-number)
+- [What happens if a client calls me from their new phone number?](https://codeforamerica.github.io/clientcommfaq/what-happens-if-a-client-calls-me-from-their-new-phone-number)
+- [How can I save ClientComm on my desktop/phone home screen?](https://codeforamerica.github.io/clientcommfaq/how-do-i-add-clientcomm-to-my-desktop)
+- [How you can be notified about new incoming messages](https://codeforamerica.github.io/clientcommfaq/how-do-i-get-notifications-about-new-messages-on-clientcomm)
 
 ---
 
