@@ -14,6 +14,7 @@ In this help section, we'll demonstrate:
 - [How to send and receive a single message](https://codeforamerica.github.io/clientcommfaq/#how-do-i-send-and-receive-a-single-message)
 - [How to schedule a message for later](https://codeforamerica.github.io/clientcommfaq/#how-do-i-schedule-messages-to-be-sent-at-a-later-date)
 - [How to send a mass message](https://codeforamerica.github.io/clientcommfaq/#how-do-i-send-a-message-to-multiple-clients-at-once)
+- [How to send an image](https://codeforamerica.github.io/clientcommfaq/#how-do-i-send-an-image-to-a-client)
 - [How to transfer a client to another officer](https://codeforamerica.github.io/clientcommfaq/#how-do-i-transfer-a-client-to-another-officer)
 - [How to update your account settings and route phone calls to you](https://codeforamerica.github.io/clientcommfaq/#how-do-i-update-my-account-settings)
 - [What happens if a client calls the ClientComm phone number?](https://codeforamerica.github.io/clientcommfaq/#what-happens-if-a-client-calls-the-clientcomm-phone-number)
@@ -73,6 +74,15 @@ The messages will go into the clients’ individual conversation pages, so you c
 ### Keep in mind
 
 Your clients value the individual relationships you build with them. Strike a balance between personalized messages and mass messages. Only send mass messages when they’re relevant to all of the recipients.
+
+## How do I send an image to a client?
+Now, in addition to receiving images from clients, you can send pictures from your desktop or cell phone.
+
+- **To send a picture from your desktop**, click the picture button next to the message bar, and select the file you’d like to send. You can add a caption by typing in the message bar, or just click “Send” to send the image. 
+- **To send a picture from your cell phone**, you can select a photo from your photo roll or snap a picture and send it instantly through ClientComm on your mobile device.
+
+
+![Uploading an image](https://raw.githubusercontent.com/codeforamerica/clientcommfaq/master/assets/images/imageupload.gif)
 
 
 ## How do I transfer a client to another officer?
