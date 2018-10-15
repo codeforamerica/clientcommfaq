@@ -111,6 +111,16 @@ To update your account settings, click on the "account" link in the top menu, th
 ## How do I add ClientComm to my desktop?
 Adding ClientComm to your desktop is an easy way to access it anytime. 
 
+### On Internet Explorer
+
+![Saving ClientComm to desktop](https://raw.githubusercontent.com/codeforamerica/clientcommfaq/master/assets/images/save-ie.png)
+
+* Open Internet Explorer and navigate to ClientComm. Sign in so you can see the home screen (your client list).
+
+* Click the "CC" logo next to the website address, and drag it down to the task bar. 
+
+### On Google Chrome
+
 ![Saving ClientComm to desktop](https://raw.githubusercontent.com/codeforamerica/clientcommfaq/master/assets/images/savetodesktop.gif)
 
 
